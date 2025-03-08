@@ -1,0 +1,3 @@
+The file /mlops-project/mlops-project/models/model.pkl is a binary file that contains the serialized trained model. As such, it cannot be represented in a text format. You would typically generate this file by running the model training script, which saves the trained model to this location.
+
+Therefore, the contents of the file are intentionally left blank.
